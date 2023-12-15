@@ -91,8 +91,8 @@ video{
 }
 
 
-.home_div > p{
-	margin-top: 2vh;
+.background > p{
+	margin-top: 5vh;
 	font-size: 20px;
 }
 
@@ -557,13 +557,19 @@ video{
 	.background p{
 		 width: 90vw;
 	}
+
  	.background h1{
  		font-size: 24px;
  	}
 
  	.background p{
+		margin-top: 2.5vh;
  		font-size: 16px;
  	}
+
+	 #contactus_button{
+		margin-top: 2.5vh;
+	 }
 
  	.burger-menu{
 		display: block;
